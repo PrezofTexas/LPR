@@ -1,0 +1,16 @@
+Lazy Privilege Reviewer Project - QC
+First Stage is Extract and Upload contents
+1.	Make sure view is in “Extracted Text”
+2.	Upload contents of the document
+Second Stage is Look Through the Contents and Determine if Privileged
+3.	First pass –
+a.	Is document blank?
+i.	GO TO [click radio buttons for QC Fields]
+ii.	Else GOTO 3b
+iii.	
+b.	
+4.	Go through words and look for these words –
+a.	“
+       Third Stage is Click on Radio button for QC Field if NOT Priv
+5.
+Fourth Stage is Click Alert Reviewer that May be Privileged
